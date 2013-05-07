@@ -6,4 +6,4 @@ Nama Kelompok :
 
 Tema : BirdMan Game
 
-Dalam game yang akan kami buat, kami membuat game Pacman. Dalam game ini, Pemain harus mengontrol satu tokoh bernama BirdMan dan membawanya mengelilingi lorong berlika-liku sambil "memakan" titik-titik kecil dan benda-benda khusus lainnya. Pada saat yang sama, terdapat empat musuh yang berkeliling di lorong tersebut yang mengejar BBman. Sang pemain akan mendapatkan skor jika berhasil memakan titik-titik kecil. Pemain terbaik ditentukan dari jumlah skor tertinggi.
+Dalam game yang akan kami buat, kami membuat game Pacman. Dalam game ini, Pemain harus mengontrol satu tokoh bernama BBMan dan membawanya mengelilingi lorong berlika-liku sambil "memakan" titik-titik kecil dan benda-benda khusus lainnya. Pada saat yang sama, terdapat dua musuh yang berkeliling di lorong tersebut yang mengejar BBman.
