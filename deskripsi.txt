@@ -1,0 +1,9 @@
+Nama Kelompok :
+	Aulia Rahmah (110533406967) PTI A 2011
+	Rezanda Rohman (1105334305) PTI B 2011
+	Larensi Mahligai (110533430543) PTI B 2011
+	Sevisana Gian P. (110533430553) PTI C 2011
+
+Tema : BirdMan Game
+
+Dalam game yang akan kami buat, kami membuat game Pacman. Dalam game ini, Pemain harus mengontrol satu tokoh bernama BirdMan dan membawanya mengelilingi lorong berlika-liku sambil "memakan" titik-titik kecil dan benda-benda khusus lainnya. Pada saat yang sama, terdapat empat musuh yang berkeliling di lorong tersebut yang mengejar BBman. Sang pemain akan mendapatkan skor jika berhasil memakan titik-titik kecil. Pemain terbaik ditentukan dari jumlah skor tertinggi.
